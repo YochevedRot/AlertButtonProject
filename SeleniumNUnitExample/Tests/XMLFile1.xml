@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+	<TestData>
+		<SearchTerm>Selenium WebDriver</SearchTerm>
+	</TestData>
+	<TestData>
+		<SearchTerm>Selenium WebDriver</SearchTerm>
+	</TestData>
+</TestCases>
+	
